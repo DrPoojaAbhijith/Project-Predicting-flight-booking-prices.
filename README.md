@@ -5,7 +5,7 @@ The objective is to analyze the flight booking dataset obtained from a platform 
 
 Dataset Information:
 Flight booking price prediction dataset contains around 3 lacs records with 11 attributes
-https://github.com/DrPoojaAbhijith/Project-Predicting-flight-booking-prices./issues/1#issue-2183948179
+![Attributes Table](https://github.com/DrPoojaAbhijith/Project-Predicting-flight-booking-prices./assets/160575120/78cf6581-c540-4bd3-a705-e0bb59e1c119)
 
 Steps:
 1) Loading the Data.
